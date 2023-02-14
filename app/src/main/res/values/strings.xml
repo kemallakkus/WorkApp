@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkApp</string>
+    <string name="image_favorite">image_favorite</string>
+    <string name="logo">company logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
